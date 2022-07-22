@@ -1203,6 +1203,15 @@ footer .footer-row {
   .oc-slider .oc-slider__wrapper .oc-slider__item img{
     height: 300px;
   }
+
+  .oc-login-dropdown .oc-login-dropdown__form{
+    top: 22.2rem;
+  }
+  .oc-login-dropdown .oc-login-dropdown__form::before {
+    top: 36.1rem;
+    right: 17rem;
+    transform: rotate(179deg);
+  }
 }
 
 
